@@ -1,0 +1,301 @@
+/* 
+  Localizable.strings
+  Tongue Tango
+
+  Created by Chris Serra on 2/14/12.
+  Copyright (c) 2012 Tongue Tango. All rights reserved.
+*/
+
+/* Buttons */
+
+"ADD" = "जोड़ें";
+"ACCEPT" = "स्वीकार करें";
+"BACK" = "पीछे";
+"BLOCK" = "ब्लॉक करें";
+"CANCEL" = "रद्द करें";
+"CONNECT" = "कनेक्ट करें";
+"CONNECT FB" = "फेसबुक से लॉगिन करें";
+"CONNECT TW" = "ट्विटर से लॉगिन करें";
+"CONTINUE" = "जारी रखें";
+"DELETE" = "डिलीट करें";
+"DENY" = "इंकार";
+"DONE" = "संपन्न";
+"DONT ALLOW" = "अनुमति नहीं दें";
+"EXISTING ACCOUNT" = "मौजूदा खाता";
+"FREE" = "नि:शुल्क";
+"GET STARTED" = "शुरू करें";
+"INVITE" = "आमंत्रित करें";
+"LOGOUT" = "लॉगआउट";
+"LOGOUT OF TT" = "Tongue Tango से लॉगआउट";
+"LOGIN" = "लॉगिन";
+"NEW" = "नया";
+"NEW ACCOUNT" = "नया खाता";
+"NEXT" = "अगला";
+"NO THANKS" = "नहीं, धन्यवाद";
+"NOT NOW" = "अभी नहीं";
+"RECORD REPLY" = "उत्तर रिकॉर्ड करें";
+"REMOVE" = "हटाएं";
+"SAVE" = "सेव";
+"SEND" = "भेजें";
+"SET PICTURE" = "चित्र सेट करें";
+"SETTINGS BTTN" = "सेटिंग्स";
+"SIGN IN" = "साइन इन";
+"SIGN UP" = "Tongue Tango के लिए साइन अप";
+"TEXT REPLY" = "पाठ में उत्तर";
+"UNBLOCK" = "अनब्लॉक करें";
+"YES" = "हाँ";
+
+/* Form Fields */
+
+"FIRST NAME" = "प्रथम नाम";
+"LAST NAME" = "अंतिम नाम";
+"USERNAME" = "यूजरनेम";
+"PASSWORD" = "पासवर्ड";
+"EMAIL" = "ईमेल";
+"PHONE" = "फोन";
+"PHONE NUMBER" = "फोन नम्बर";
+"CONFIRM" = "पुष्टि करें";
+"CONFIRM PASSWORD" = "पासवर्ड की पुष्टि करें";
+"GROUP NAME" = "समूह नाम";
+"FORGOT" = "भूल गया हूं?";
+
+/* API Connections */
+
+"CONNECT ERROR" = "कनेक्शन त्रुटि";
+"REQUEST ERROR" = "अनुरोध त्रुटि";
+"REQUEST ERROR MESSAGE" = "एक त्रुटि हुई जो सर्वर के लिए आपके अनुरोध को रोकता है। कृपया बाद में पुन: प्रयास करें।";
+"UPLOAD ERROR" = "अपलोड त्रुटि";
+"UPLOAD ERROR MESSAGE" = "आप जिस संदेश को भेजने का प्रयास कर रहे हैं, वह खाली है। कृपया पुन: प्रयास करें।";
+
+/* Facebook */
+
+"FB ACTIVITY" = "फेसबुक से दोस्तों को पुन:प्राप्त कर रहे हैं।";
+"FB CONNECT" = "Tongue Tango पर अपने दोस्तों को पाने के लिए फेसबुक से कनेक्ट करें।";
+"FB ERROR" = "Tongue Tango आपके फेसबुक खाते से कनेक्ट करने में असमर्थ रहा। कृपया बाद में पुन: प्रयास करें।";
+
+/* Twitter */
+
+"TW ERROR" = "Tongue Tango आपके ट्विटर खाते से कनेक्ट करने में असमर्थ रहा। कृपया बाद में पुन: प्रयास करें।";
+
+/* Menu */
+
+"HOME" = "होम";
+"MESSAGES" = "संदेश";
+"FRIENDS" = "दोस्त";
+"GROUPS" = "समूह";
+"FAVORITES" = "पसंदीदा";
+"PROFILE" = "प्रोफाइल";
+"SETTINGS" = "सेटिंग्स, थीम और माइक्स";
+"EXTRAS" = "अतिरिक्त";
+"FAQS" = "एफएक्यू";
+"ABOUT" = "बारे में";
+
+/* Welcom View */
+
+"WELCOME" = "Tongue Tango में स्वागत है!";
+"WELCOME MESSAGE" = "हम जीवन को सरल, सबसे अधिक सामाजिक और इसके साथ-साथ आपके लिए पूरी तरह से अनुकूलित बनाने में यकीन रखते हैं।";
+"NEW OR EXISTING" = "आप कैसे रजिस्टर करना चाहेंगे?";
+
+/* Registration View */
+
+"PICTURE QUESTION" = "आपा अपना चित्र कैसे सेट करना चाहेंगे?";
+"PICTURE ANSWER1" = "चित्र लें";
+"PICTURE ANSWER2" = "चित्र चुनें";
+"TYPE NAME" = "अपना नाम टाइप करें";
+"NO IMAGE TITLE" = "चित्र चुनें";
+"NO IMAGE MESSAGE" = "अपने दोस्तों के लिए आपको आसानी से ढूंढने के लिए कृपया एक चित्र चुनें।";
+"NO NAME TITLE" = "नाम दर्ज करें";
+"NO NAME MESSAGE" = "अब दोस्त आपको ढूंढ सकते हैं, कृपया पहला नाम दर्ज करें।";
+"OR" = "या";
+"CAMERA UNAVAILABLE" = "कैमरा अनुपलब्ध";
+"CAMERA NOT AVAILABLE" = "आपका उपकरण चित्र लेने में सक्षम नहीं है। कृपया दूसरा विकल्प चुनें।";
+
+/* Login View */
+
+"LOGIN ERROR" = "लॉगिन त्रुटि";
+"LOGIN ERROR MESSAGE" = "आपकी प्रस्तुति में एक या अधिक त्रुटियां थीं। कृपया पुन: प्रयास करें।";
+"MISSING UN PW" = "कृपया लॉगिन करने के लिए यूज़रनेम और पासवर्ड दर्ज करें।";
+"CONFIRM NO MATCH" = "पासवर्ड और पुष्टिकरण मेल नहीं खाते हैं। कृपया पुन: प्रयास करें।";
+
+/* Friends Landing View */
+
+"REGISTRATION COMPLETE" = "रजिस्ट्रेशन पूर्ण!";
+"THANK YOU FOR REGISTERING" = "Tongue Tango  में रजिस्टर करने के लिए धन्यवाद! Tongue Tango का उपयोग करने के लिए कुछ दोस्तों के साथ कनेक्ट करना अपेक्षित है…";
+
+/* Add Friends View */
+
+"ADD FRIENDS" = "दोस्तों को जोड़ें";
+"CONTACTS" = "संपर्क";
+"CONTACTS SUBTITLE" = "अपनी संपर्क सूची में दोस्तों को ढूंढें";
+"FACEBOOK" = "फेसबुक";
+"FB SUBTITLE" = "फेसबुक सए दोस्तों को ढूंढें";
+"INVITE SUBTITLE" = "Tongue Tango से जुड़ने के लिए दोस्तों को आमंत्रित करें";
+"SUGGESTIONS" = "सुझाव";
+"TOP RESULTS" = " \"%@\" के लिए शीर्ष परिणाम";
+"AB ACCESS" = "पता पुस्तिका अक्सेस";
+"AB ACCESS MESSAGE" = "दोस्तों के लिए सुझाव भेजने हेतु Tongue Tango आपकी पता पुस्तिका अक्सेस करने की अनुमति चाहेगा।";
+"CONTACTS PERMISSION" = "आपके संपर्क";
+"CONTACTS PERMISSION MESSAGE" = "आपके दोस्तों और परिवार से आसानी से जोड़ने के लिए Tongue Tango के लिए आपकी संपर्क सूची हमारे सर्वर को भेजना आवश्यक है।";
+
+/* Contact Details View */
+
+"ADD FRIEND" = "दोस्त जोड़ें";
+"ADDED FRIEND" = "दोस्त के रूप में शामिल";
+"PROCESSING" = "प्रोसेसिंग...";
+"INVITE FRIEND" = "दोस्त को आमंत्रित करें";
+
+/* Add From Contacts View */
+
+"TT CONTACTS" = "Tongue Tango पर संपर्क";
+"INVITE TO TT" = "Tongue Tango पर आमंत्रित करें";
+"AB ACTIVITY" = "आपकी \n पता पुस्तिका से दोस्तों को पुन: प्राप्त कर रहे हैं।";
+"AB ERROR" = "Tongue Tango आपकी पता पुस्तिका\n से संपर्कों की पुनर्प्राप्ति में सक्षम नहीं था। कृपया बाद में पुन: प्रयास करें।";
+"AB NO ENTRIES" = "आपकी\n पता पुस्तिका में कोई संपर्क नहीं है।";
+
+/* Invite Form View */
+
+"INVITE FORM ERROR" = "फॉर्म त्रुटि आमंत्रित करें";
+"PLEASE ENTER NAME" = "कृपया जारी रखने से पहले पहला नाम या अंतिम नाम दर्ज करें।";
+"PLEASE ENTER EMAIL" = "कृपया जारी रखने से पहले ईमेल पता या फोन नम्बर दर्ज करें।";
+"INVALID EMAIL" = "कृपया मान्य ईमेल पता दर्ज करें।";
+"INVALID PHONE" = "कृपया मान्य फोन नम्बर दर्ज करें।";
+"INVITE MESSAGE" = "Tongue Tango का भी आनंद लेने के लिए दोस्त को आमंत्रित करें! बस आमंत्रण फॉर्म को भरें और अगला बटन टैप करें।";
+
+/* Invite View */
+
+"INVITE TITLE" = "आमंत्रित करें %@ ";
+"VIDEO DEMO" = "वीडियो डेमो";
+"VIDEO SUBTITLE" = "Tt वीडियो डेमो भेजें";
+"VOICE NOTE" = "ध्वनि नोट";
+"VOICE SUBTITLE" = "Tt ध्वनि नोट भेजें";
+"RECORD VOICE" = "ध्वनि नोट रिकॉर्ड करें";
+"RECORD SUBTITLE" = "खुद अपना ध्वनि नोट भेजें";
+"TEXT" = "अगला";
+"TEXT SUBTITLE" = "एसएमएस पाठ भेजें";
+"INVITE TEXT MESSAGE" = "अलोहा, होला और हेलो - ये सबसे महत्वपूर्ण संदेश हो सकते हैं जिन्हें आप पूरे दिन प्राप्त करते हैं।\n\n आपका दोस्त, %@ %@, पहले से ही Tongue Tango का उपयोग कर रहा है और आपको भी करना चाहिए! बेहतर उपयोग और खासकर दोस्तों से बात करने के लिए अतुलनीय स्मार्ट फोन में डालें; पाठ 2011 जैसा है!\n\n बात करें, पोस्ट करें, ट्विट करें, शाउट करें, थीम बनाएं, यील करें, स्क्रीम करें या सामान्य रूप से बातचीत करें अगर आप वाकई ऐसी चीजें करना चाहते हैं!\n\n इसे TounueTango.com पर ऑनलाइन आजमाएं और आईफोन और एंड्रॉयड के लिए यहाँ एैप डाउनलोड करें: %@";
+//"INVITE TEXT MESSAGE" = "आपको यह ईमेल इसलिए प्राप्त हो रहा है क्योंकि आप फेसबुक का उपयोग नहीं करते या %@ %@ आपको ईमेल भेजना पसंद करते हैं।\n\n आईए इसेआप दोनों के लिए आसान बनाएं, Tongue Tango डाउनलोड करें और ऐसी खतरनाक ईमेल सिस्टम से बाहर निकलें। ईमेल 2011 जैसा है!\n\n%@";
+"INVITE SMS MESSAGE" = "और अब ऊंगलियां नहीं केवल जबान बोलेगी। %@ Tongue Tango को बात करने, पोस्ट करने, ट्विट करने, स्क्रीम करने और यील करने के लिए उपयोग करता है इसलिए जबान इस्तेमाल करें! %@";
+"OPTION UNAVAILABLE" = "विकल्प अनुपलब्ध";
+"SMS NOT AVAILABLE" = "आपका उपकरण एसएमएस संदेशों को भेजने में असमर्थ है। कृपया दूसरा विकल्प चुनें।";
+"EMAIL NOT AVAILABLE" = "आपका उपकरण ईमेल संदेशों को भेजने में असमर्थ है। कृपया दूसरा विकल्प चुनें।";
+"INVITE SENT" = "आपका निमंत्रण भेज दिया गया है!";
+
+/* Home View */
+
+"TYPE MESSAGE" = "संदेश खाली है";
+"TYPE MESSAGE MESSAGE" = "आपको कुछ टाइप या रद्द करें पर हिट करना चाहिए।";
+"FB VIDEO POST TITLE" = "मेरे संदेश को सुनने के लिए क्लिक करें!";
+"FB VIDEO POST DESC" = "आपके किसी एक Tango %@ दोस्त के पास कहने के लिए कुछ है। अगर आप फेसबुक पर नए है तो प्ले बटन पर क्लिक करें और चमत्कृत होने के लिए तैयार हो जाए!";
+"TW AUDIO POST DESC" = " Tongue Tango के द्वारा मेरा ट्विट सुनने के लिए लिंक पर क्लिक करें";
+"NEW MESSAGE" = "नया संदेश";
+"PRESS & HOLD TO RECORD" = "रिकॉर्ड करने के लिए दबायें और पकड़े रहें";
+
+/* Messages View */
+
+"SELECT CONTACT" = "संपर्क चुनें";
+
+/* Friends List View */
+
+"MY FRIENDS" = "दोस्त";
+"PENDING FRIENDS" = "लंबित";
+"ACTIVE FRIENDS" = "दोस्त";
+"BLOCKED FRIENDS" = "ब्लॉक्ड";
+"NOT GROUP OWNER" = "आप समूह के स्वामी नहीं है";
+"CONTACT GROUP OWNER" = "कृपया इस समूह से खुद को हटाने के लिए समूह के स्वामी से संपर्क करें।";
+"GROUP OWNER" = "(समूह स्वामी)";
+"GROUP NAME TITLE" = "अपने समूह के लिए नाम बनाएं";
+"GROUP NAME DESC" = "ताकि दोस्त आपके समूह को ढूंढ सकें, कृपया समूह नाम दर्ज करें।";
+"GROUP PICTURE" = "आप अपने समूह का चित्र कैसे सेट करना चाहेंग़े?";
+
+/* Profile */
+
+"PERSONAL INFO" = "व्यक्तिगत जानकारी";
+"CHANGE PASSWORD" = "पासवर्ड बदलें";
+"SOCIAL NETWORKING" = "सामाजिक नेटवर्किंग";
+
+/* Settings */
+
+"REVIEW" = "भेजने से पहले समीक्षा करें";
+"SKINS" = "थीम";
+"REVIEW AUDIO" = "ऑडियो की समीक्षा करें";
+"DEFAULT TO SPEAKER" = "स्पीकर के लिए डिफॉल्ट";
+"MICROPHONES" = "माइक्रोफोन्स";
+"GET MORE THEMES" = "और अधिक थीम पाएं";
+"GET MORE MICROPHONES" = "और अधिक माइक्रोफोन्स पाएं";
+"DEFAULT" = "डिफॉल्ट";
+
+/* Extras */
+
+"SKIN MY APP" = "मेरे App की थीम";
+"SKIN DESCRIPTION" = "अपने Tongue Tango एैप को व्यक्तिगत बनाएं। सेना, रेगिस्तान, गुलाबी चीता जैसे और भी कई अन्य थीम चुनें।";
+"MICROPHONE PACK" = "माइक्रोफोन चेंजर: 5 पैक";
+"MICROPHONE DESCRIPTION" = "5 अलग-अलग माइक्रोफोनों में से अपने मूड के अनुसार उपयुक्त माइक्रोफोन चुनें। माइक्रोफोनों को चुनने के लिए टैब।";
+
+/* About View */
+
+"WEBSITE" = "TongueTango.com";
+"LINKEDIN" = "लिंक्डइन";
+"TWITTER" = "ट्विटर";
+"YOUTUBE" = "यूट्यूब";
+"EMAIL UNAVAILABLE" = "ईमेल अनुपलब्ध";
+"EMAIL NOT SETUP" = "आपका उपकरण वर्तमान में ईमेल संदेश भेजने के लिए तैयार नहीं किया गया है।";
+"TERMS OF USE" = "उपयोग की शर्तें";
+"RATE US 5 STARS" = "हमें 5 स्टार की रेटिंग दें";
+"EMAIL FEEDBACK" = "फीडबैक ईमेल करें";
+
+/* Loading */
+
+"APPLYING THEME" = "थीम लागू हो रहा है...";
+"CHECKING PURCHASES" = "खरीद जांच रहे हैं...";
+"CREATING ACCOUNT" = "खाता बन रहा है...";
+"LOADING THEMES" = "थीम लोड हो रहा है...";
+"LOGGING IN" = "लॉगिंग इन...";
+"SYNCING" = "Syncing";
+"SAVING GROUP" = "समूह रक्षित हो रहा है...";
+
+/* Other */
+
+"TONGUE-TASTIC!" = "टंग़-टैस्टिक!";
+"WAITING FOR FRIEND TO ACCEPT" = "अब हम बस आपके दोस्त द्वारा स्वीकार किए जाने की प्रतीक्षा कर रहे हैं...";
+
+"LOADING" = "लोड हो रहा है...";
+"NO RESULTS" = "कोई परिणाम नहीं";
+
+"DONT TELL ME AGAIN" = "मुखे दुबारा न बतायें"; 
+"MY WALL" = "फेसबुक (मेरी वाल)";
+"MY FEED" = "ट्विटर (मेरे फीड)" ;
+
+"UNABLE TO CONNECT" = "टंग टैंगो सर्वर से कनेक्ट होने में अक्षम रहा। कृपया सुनिश्चित करें कि आपके पास इंटरनेट तक पहुंच हो।";
+
+"ADDED TO A GROUP" = "आपको समूह में जोड़ा गया है!";
+"HAVE A NEW MESSAGE" = "आपके लिए एक नया संदेश है!";
+
+"PREPARING TO DOWNLOAD" = "डाउनलोड के लिए तैयार हो रहा है...";
+"MESSAGE IS UNAVAILABLE" = "संदेश अनुपलब्ध है।";
+"MESSAGE DOWNLOAD FAILED" = "संदेश डाउनलोड विफल।";
+"UNKNOWN USER" = "अज्ञात प्रयोक्ता";
+
+"TAP TO PREVIEW" = "(प्रीव्यू के लिए दबाएँ)";
+"THEME PURCHASED" = "खरीदा गया थीम";
+"SET YOUR THEME IN SETTINGS" = "आप अपनी सेटिंग्स के भीतर अपना थीम सेट कर सकते हैं।";
+"UNABLE TO PURCHASE" = "क्षमा करें, हम इस थीम को खरीदने में अक्षम रहे। कृपया पुन: प्रयास करने के लिए खरीद बटन दबाएँ।";
+"UNABLE TO VERIFY HISTORY" = "क्षमा करें, हम आपकी खरीद का इतिहास सत्यापित करने में अक्षम रहे।";
+
+"LOGOUT QUESTION" = "क्या आप वाकई टंग टैंगो से लॉग आउट करना चाहते हैं?";
+
+"PLEASE CREATE USERNAME" = "कृपया अपने टंग टैंगो के खाते के लिए यूजरनेम और पासवर्ड बनाएं।";
+"OPTIONAL" = "वैकल्पिक";
+
+"PROFILE UPDATED" = "आपका प्रोफाइल अपडेट हो गया है।";
+
+"SAVE GROUP TITLE" = "क्या आप अपने बदलावों को रक्षित करना चाहते हैं?";
+"SAVE GROUP MESSAGE" = "अगर आप रक्षित नहीं करते हैं तो आपके बदलाव खत्म हो जाएंगे।";
+
+"FROM MY CONTACT LIST" = "From My Contact List";
+"ADDRESS BOOK" = "Address Book";
+"FACEBOOK FRIENDS" = "Facebook Friends";
+"SYNC ALERT" = "In order to find yours friends we need to send address book information to Tongue Tango's servers using a secure connection";
+"DOWNLOAD AGAIN" = "Download again.";
+"SORRY" = "Sorry";
+"TWITTER_ALERT" = "You can't send a tweet right now, make sure your device has an internet connection and you have at least one Twitter account. Go to Settings > Twitter on your iOS device";
+"UPLOADING" = "Uploading...";

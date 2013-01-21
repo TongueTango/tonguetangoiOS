@@ -1,0 +1,301 @@
+/* 
+ Localizable.strings
+ Tongue Tango
+ 
+ Created by Chris Serra on 2/14/12.
+ Copyright (c) 2012 Tongue Tango. All rights reserved.
+ */
+
+/* Buttons */
+
+"ADD" = "Agregar";
+"ACCEPT" = "Aceptar";
+"BACK" = "Atrás";
+"BLOCK" = "Bloquear";
+"CANCEL" = "Cancelar";
+"CONNECT" = "Conectar";
+"CONNECT FB" = "Iniciar sesión en Facebook";
+"CONNECT TW" = "Iniciar sesión en Twitter";
+"CONTINUE" = "Continuar";
+"DELETE" = "Eliminar";
+"DENY" = "Denegar";
+"DONE" = "Hecho";
+"DONT ALLOW" = "No Permita";
+"EXISTING ACCOUNT" = "Cuenta existente";
+"FREE" = "Liberar";
+"GET STARTED" = "Comenzar";
+"INVITE" = "Invitar";
+"LOGOUT" = "Cerrar sesión";
+"LOGOUT OF TT" = "Cerrar sesión en Tongue Tango";
+"LOGIN" = "Iniciar sesión";
+"NEW" = "Nuevo";
+"NEW ACCOUNT" = "Cuenta nueva";
+"NEXT" = "Siguiente";
+"NO THANKS" = "No gracias";
+"NOT NOW" = "No ahora";
+"RECORD REPLY" = "Registrar respuesta";
+"REMOVE" = "Remover";
+"SAVE" = "Guardar";
+"SEND" = "Enviar";
+"SET PICTURE" = "Configurar foto";
+"SETTINGS BTTN" = "Configuración";
+"SIGN IN" = "Registrarse";
+"SIGN UP" = "Registrarse en Tongue Tango";
+"TEXT REPLY" = "Respuesta de texto";
+"UNBLOCK" = "Desbloquear";
+"YES" = "Sí";
+
+/* Form Fields */
+
+"FIRST NAME" = "Nombre";
+"LAST NAME" = "Apellido";
+"USERNAME" = "Nombre de usuario";
+"PASSWORD" = "Contraseña";
+"EMAIL" = "Correo electrónico";
+"PHONE" = "Teléfono";
+"PHONE NUMBER" = "Número de teléfono";
+"CONFIRM" = "Confirmar";
+"CONFIRM PASSWORD" = "Confirme Contraseña";
+"GROUP NAME" = "Nombre del Grupo";
+"FORGOT" = "¿olvidada?";
+
+/* API Connections */
+
+"CONNECT ERROR" = "Error de conexión";
+"REQUEST ERROR" = "Error en solicitud";
+"REQUEST ERROR MESSAGE" = "Ha ocurrido un error y su solicitud no llegó al servidor. Por favor, intente más tarde.";
+"UPLOAD ERROR" = "Error de subida de archivo";
+"UPLOAD ERROR MESSAGE" = "El mensaje que usted está tratando de enviar está vacío. Inténtelo de nuevo.";
+
+/* Facebook */
+
+"FB ACTIVITY" = "Recuperar amigos de Facebook.";
+"FB CONNECT" = "Conéctese a Facebook para encontrar a sus \n amigos en Tongue Tango.";
+"FB ERROR" = "Tongue Tango no pudo conectarse con su cuenta de Facebook. Por favor, intente más tarde.";
+
+/* Twitter */
+
+"TW ERROR" = "Tongue Tango no pudo conectarse con su cuenta de Twitter. Por favor, intente más tarde.";
+
+/* Menu */
+
+"HOME" = "Inicio";
+"MESSAGES" = "Mensajes";
+"FRIENDS" = "Amigos";
+"GROUPS" = "Grupos";
+"FAVORITES" = "Favoritos";
+"PROFILE" = "Perfil";
+"SETTINGS" = "Configuración, Temas y Mics";
+"EXTRAS" = "Extras";
+"FAQS" = "Preguntas frecuentes";
+"ABOUT" = "Acerca de";
+
+/* Welcom View */
+
+"WELCOME" = "¡Bienvenido a Tongue Tango!";
+"WELCOME MESSAGE" = "Creemos posible que su vida sea simple, con gran actividad social y de todo su gusto.";
+"NEW OR EXISTING" = "¿Cómo prefiere registrarse?";
+
+/* Registration View */
+
+"PICTURE QUESTION" = "¿Cómo le gustaría configurar su foto?";
+"PICTURE ANSWER1" = "Tomar una foto";
+"PICTURE ANSWER2" = "Elegir una foto";
+"TYPE NAME" = "Ingresar su nombre";
+"NO IMAGE TITLE" = "Elegir una foto";
+"NO IMAGE MESSAGE" = "Para que a sus amigos les sea más fácil encontrarlo, elija una foto.";
+"NO NAME TITLE" = "Ingrese un nombre";
+"NO NAME MESSAGE" = "Para que amigos puedan encontrarlo, por favor ingrese un nombre.";
+"OR" = "o";
+"CAMERA UNAVAILABLE" = "Cámara no disponible";
+"CAMERA NOT AVAILABLE" = "Su dispositivo no está habilitado para tomar fotos. Por favor, elija otra opción.";
+
+/* Login View */
+"LOGIN ERROR" = "Error de inicio de sesión";
+"LOGIN ERROR MESSAGE" = "Hubo uno o más errores en el envío de sus datos. Por favor, intente de nuevo.";
+"MISSING UN PW" = "Por favor ingrese un nombre de usuario y una contraseña para iniciar sesión.";
+"CONFIRM NO MATCH" = "La contraseña y la confirmación no coinciden. Inténtelo de nuevo.";
+
+/* Friends Landing View */
+"REGISTRATION COMPLETE" = "¡Registro terminado!";
+"THANK YOU FOR REGISTERING" = "¡Gracias por registrarse en Tongue Tango! Para usar Tongue Tango, tendrá que conectarse con algunos amigos…";
+
+/* Add Friends View */
+
+"ADD FRIENDS" = "Agregar amigos";
+"CONTACTS" = "Contactos";
+"CONTACTS SUBTITLE" = "Encontrar amigos de sus contactos";
+"FACEBOOK" = "Facebook";
+"FB SUBTITLE" = "Encontrar amigos de Facebook";
+"INVITE SUBTITLE" = "Invitar amigos a unirse a Tongue Tango";
+"SUGGESTIONS" = "Sugerencias";
+"TOP RESULTS" = "Principales resultados para \"%@\"";
+"AB ACCESS" = "Acceso a libreta de direcciones";
+"AB ACCESS MESSAGE" = "Tongue Tango desea acceder a su libreta de direcciones para sugerir amigos.";
+"CONTACTS PERMISSION" = "Sus contactos";
+"CONTACTS PERMISSION MESSAGE" = "Para conectarlo fácilmente con sus amigos y su familia, Tongue Tango necesita enviar sus contactos a nuestro servidor.";
+
+/* Contact Details View */
+
+"ADD FRIEND" = "Agregar amigo";
+"ADDED FRIEND" = "Agregado como amigo";
+"PROCESSING" = "Procesando…";
+"INVITE FRIEND" = "Invitar amigo";
+
+/* Add From Contacts View */
+
+"TT CONTACTS" = "Contactos en Tongue Tango";
+"INVITE TO TT" = "Invitar a Tongue Tango";
+"AB ACTIVITY" = "Recuperar amigos de su\n Libreta de direcciones.";
+"AB ERROR" = "Tongue Tango no pudo recuperar contactos de su Libreta de direcciones.\n Por favor, intente más tarde.";
+"AB NO ENTRIES" = "There are no contacts in your\n Address Book.";
+
+/* Invite Form View */
+
+"INVITE FORM ERROR" = "Error en formulario de invitación";
+"PLEASE ENTER NAME" = "Por favor ingrese un nombre o un apellido antes de continuar.";
+"PLEASE ENTER EMAIL" = "Por favor ingrese una dirección de correo electrónico o un número de teléfono antes de continuar.";
+"INVALID EMAIL" = "Por favor ingrese una dirección de correo electrónico válida.";
+"INVALID PHONE" = "Por favor ingrese un número de teléfono válido.";
+"INVITE MESSAGE" = "¡Invite a un amigo para que también disfrute de Tongue Tango! Solo tiene que completar el formulario de invitación y hacer clic en Siguiente.";
+
+/* Invite View */
+
+"INVITE TITLE" = "Invitar %@";
+"VIDEO DEMO" = "Video Demo";
+"VIDEO SUBTITLE" = "Enviar un Tt video demo";
+"VOICE NOTE" = "Nota de voz";
+"VOICE SUBTITLE" = "Enviar a Tt nota de voz";
+"RECORD VOICE" = "Grabar nota de voz";
+"RECORD SUBTITLE" = "Enviar su propia nota de voz";
+"TEXT" = "Texto";
+"TEXT SUBTITLE" = "Enviar un SMS de texto";
+"INVITE TEXT MESSAGE" = "Aloha, Hola y Hello - Puede que este sea el mensaje más importante que reciba en todo el día.\n\n Su amigo, %@ %@, ya está usando Tongue Tango ¡y usted también debiera hacerlo!  Déle un buen uso a ese fantástico smartphone y realmente hable con sus amigos; ¡Textear es tan del 2011!\n\n Pulse Talk, Postee, Tuitee, Personalice, envíe un Shout, un Tema, un Yell, un Scream o bien hable normalmente, ¡si es que alguna vez lo hace!\n\n Vaya a TongueTango.com y descargue la aplicación para iPhone y Android AQUÍ: %@";
+"INVITE SMS MESSAGE" = "No more thumbs just Tongue. %@ uses Tongue Tango to Talk, Post, Tweet, Scream and Yell, so use some Tongue! %@";
+"OPTION UNAVAILABLE" = "Opción no disponible";
+"SMS NOT AVAILABLE" = "Su dispositivo no puede enviar mensajes SMS. Por favor, elija otra opción.";
+"EMAIL NOT AVAILABLE" = "Su dispositivo no puede enviar mensajes de correo electrónico. Por favor, elija otra opción.";
+"INVITE SENT" = "¡Su invitación ha sido enviada!";
+
+/* Home View */
+
+"TYPE MESSAGE" = "Mensaje vacío";
+"TYPE MESSAGE MESSAGE" = "Usted debe ingresar algo o hacer clic en cancelar.";
+"FB VIDEO POST TITLE" = "¿Haga clic para escuchar mi mensaje!";
+"FB VIDEO POST DESC" = "Uno de us amigos Tongue Tango %@ tiene algo que decirle. Si es usuario nuevo en Facebook, haga clic en el botón reproducir y ¡prepárese para asombrarse!";
+"TW AUDIO POST DESC" = "Haga clic en el enlace para escuchar mi tuit a través de Tongue Tango:";
+"NEW MESSAGE" = "Mensaje Nuevo";
+"PRESS & HOLD TO RECORD" = "Mantenga oprimida para grabar";
+
+/* Messages View */
+
+"SELECT CONTACT" = "Seleccionar contacto";
+
+/* Friends List View */
+
+"MY FRIENDS" = "Amigos";
+"PENDING FRIENDS" = "Pendiente";
+"ACTIVE FRIENDS" = "Amigos";
+"BLOCKED FRIENDS" = "Bloqueado";
+"NOT GROUP OWNER" = "Usted no es el dueño del grupo";
+"CONTACT GROUP OWNER" = "Por favor contacte al dueño del grupo para darse de baja en este grupo.";
+"GROUP OWNER" = "(Dueño del grupo)";
+"GROUP NAME TITLE" = "Cree un nombre para su grupo";
+"GROUP NAME DESC" = "Para que sus amigos puedan encontrar su grupo, introduzca un nombre de grupo.";
+"GROUP PICTURE" = "¿Cómo le gustaría ubicar la foto del grupo?";
+
+/* Profile */
+
+"PERSONAL INFO" = "Información personal";
+"CHANGE PASSWORD" = "Cambiar contraseña";
+"SOCIAL NETWORKING" = "Redes sociales";
+
+/* Settings */
+
+"REVIEW" = "Revisar antes de enviar";
+"SKINS" = "Temas";
+"REVIEW AUDIO" = "Revisar audio";
+"DEFAULT TO SPEAKER" = "Predeterminado para altavoz";
+"MICROPHONES" = "Micrófonos";
+"GET MORE THEMES" = "Obtener más temas";
+"GET MORE MICROPHONES" = "Obtener más micrófonos";
+"DEFAULT" = "Predeterminado";
+
+/* Extras */
+
+"SKIN MY APP" = "Tema My App";
+"SKIN DESCRIPTION" = "Personalice su Aplicación Tongue Tango. Elija entre temas como Militar, Desierto, Guepardo Rosa, y muchos más.";
+"MICROPHONE PACK" = "Cambiador de micrófono: 5 Pack";
+"MICROPHONE DESCRIPTION" = "Elija entre 5 diferentes micrófonos diseñados para adaptarse a su estado de ánimo. Pulse para vista previa de los micrófonos.";
+
+/* About View */
+
+"WEBSITE" = "TongueTango.com";
+"LINKEDIN" = "LinkedIn";
+"TWITTER" = "Twitter";
+"YOUTUBE" = "YouTube";
+"EMAIL UNAVAILABLE" = "Correo electrónico no disponible";
+"EMAIL NOT SETUP" = "Su dispositivo no está configurado para enviar mensajes de correo electrónico.";
+"TERMS OF USE" = "Condiciones de uso";
+"RATE US 5 STARS" = "Califíquenos como 5 estrellas";
+"EMAIL FEEDBACK" = "Comentarios por correo electrónico";
+
+/* Loading */
+
+"APPLYING THEME" = "Aplicar tema...";
+"CHECKING PURCHASES" = "Verificar compras...";
+"CREATING ACCOUNT" = "Crear cuenta...";
+"LOADING THEMES" = "Cargar temas...";
+"LOGGING IN" = "Iniciar sesión...";
+"SYNCING" = "Syncing";
+"SAVING GROUP" = "Guardar grupo...";
+
+/* Other */
+
+"TONGUE-TASTIC!" = "Tongue-Tastic!";
+"WAITING FOR FRIEND TO ACCEPT" = "Ahora estamos a la espera de que su amigo lo acepte...";
+
+"LOADING" = "Cargando...";
+"NO RESULTS" = "Sin resultados";
+
+"DONT TELL ME AGAIN" = "No decírmelo otra vez";
+
+"MY WALL" = "Facebook (Mi muro)";
+"MY FEED" = "Twitter (Mi twit)";
+
+"UNABLE TO CONNECT" = "Tongue Tango no pudo conectar con el servidor. Asegúrese de que tiene acceso a Internet.";
+
+"ADDED TO A GROUP" = "¡Se le ha agregado a un grupo!";
+"HAVE A NEW MESSAGE" = "¡Tiene un mensaje nuevo!";
+
+"PREPARING TO DOWNLOAD" = "Preparando para descarga...";
+"MESSAGE IS UNAVAILABLE" = "El mensaje no está disponible.";
+"MESSAGE DOWNLOAD FAILED" = "La descarga del mensaje falló.";
+"UNKNOWN USER" = "Usuario desconocido";
+
+"DOWNLOAD AGAIN" = "Download again.";
+
+
+"TAP TO PREVIEW" = "(pulse para vista previa)";
+"THEME PURCHASED" = "Tema comprado";
+"SET YOUR THEME IN SETTINGS" = "Usted puede configurar su tema dentro de la Configuración";
+"UNABLE TO PURCHASE" = "Lo sentimos, no pudimos comprar este tema. Por favor, pulse el botón de compra para volver a intentarlo.";
+"UNABLE TO VERIFY HISTORY" = "Lo sentimos, no hemos podido verificar su historial de compras.";
+
+"LOGOUT QUESTION" = "¿Está seguro de que desea cerrar la sesión de Tongue Tango?";
+
+"PLEASE CREATE USERNAME" = "Cree un nombre de usuario y una contraseña para su cuenta de Tongue Tango.";
+"OPTIONAL" = "opcional";
+
+"PROFILE UPDATED" = "Su perfil ha sido actualizado.";
+
+"SAVE GROUP TITLE" = "¿Desea guardar sus cambios? ";
+"SAVE GROUP MESSAGE" = "Si no los guarda, sus cambios se perderán.";
+
+"FROM MY CONTACT LIST" = "From My Contact List";
+"ADDRESS BOOK" = "Address Book";
+"FACEBOOK FRIENDS" = "Facebook Friends";
+"SYNC ALERT" = "In order to find yours friends we need to send address book information to Tongue Tango's servers using a secure connection";
+"SORRY" = "Sorry";
+"TWITTER_ALERT" = "You can't send a tweet right now, make sure your device has an internet connection and you have at least one Twitter account. Go to Settings > Twitter on your iOS device";
+"UPLOADING" = "Uploading...";

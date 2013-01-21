@@ -1,0 +1,304 @@
+/* 
+  Localizable.strings
+  Tongue Tango
+
+  Created by Chris Serra on 2/14/12.
+  Copyright (c) 2012 Tongue Tango. All rights reserved.
+*/
+
+/* Buttons */
+
+"ADD" = "添加";
+"ACCEPT" = "接受";
+"BACK" = "返回";
+"BLOCK" = "阻止";
+"CANCEL" = "取消";
+"CONNECT" = "连接";
+"CONNECT FB" = "使用Facebook登录";
+"CONNECT TW" = "使用Twitter登录";
+"CONTINUE" = "继续";
+"DELETE" = "删除";
+"DENY" = "拒绝";
+"DONE" = "完成";
+"DONT ALLOW" = "不允许";
+"EXISTING ACCOUNT" = "现有账户";
+"FREE" = "免费";
+"GET STARTED" = "开始";
+"INVITE" = "邀请";
+"LOGOUT" = "登出";
+"LOGOUT OF TT" = "登出Tongue Tango";
+"LOGIN" = "登录";
+"NEW" = "新建";
+"NEW ACCOUNT" = "新账户";
+"NEXT" = "下一步";
+"NO THANKS" = "不，谢谢";
+"NOT NOW" = "暂时不";
+"RECORD REPLY" = "录制回复";
+"REMOVE" = "移除";
+"SAVE" = "保存";
+"SEND" = "发送";
+"SET PICTURE" = "设置头像";
+"SETTINGS BTTN" = "设置";
+"SIGN IN" = "登录";
+"SIGN UP" = "注册Tongue Tango";
+"TEXT REPLY" = "文本回复";
+"UNBLOCK" = "解除阻止";
+"YES" = "是";
+
+/* Form Fields */
+
+"FIRST NAME" = "名";
+"LAST NAME" = "姓";
+"USERNAME" = "用户名";
+"PASSWORD" = "密码";
+"EMAIL" = "电子邮箱";
+"PHONE" = "电话";
+"PHONE NUMBER" = "电话号码";
+"CONFIRM" = "确认";
+"CONFIRM PASSWORD" = "确认密码";
+"GROUP NAME" = "组织名称";
+"UPLOAD ERROR" = "上传错误";
+"UPLOAD ERROR MESSAGE" = "您发的信息是空白的。请再试一次.";
+"FORGOT" = "忘了吗？";
+
+/* API Connections */
+
+"CONNECT ERROR" = "连接错误";
+"REQUEST ERROR" = "请求错误";
+"REQUEST ERROR MESSAGE" = "发生错误，您无法向服务器发出请求。请稍后再试。";
+"UPLOAD ERROR" = "上传错误";
+"UPLOAD ERROR MESSAGE" = "您发的信息是空白的。请再试一次.";
+
+/* Facebook */
+
+"FB ACTIVITY" = "检索Facebook中的好友。";
+"FB CONNECT" = "连接至Facebook找到您在Tongue Tango上的\n 朋友。";
+"FB ERROR" = "Tongue Tango无法连接到您的Facebook账户。 请稍后再试。";
+
+/* Twitter */
+
+"TW ERROR" = "Tongue Tango无法连接到您的Twitter账户。 请稍后再试。";
+
+/* Menu */
+
+"HOME" = "首页";
+"MESSAGES" = "消息";
+"FRIENDS" = "好友";
+"GROUPS" = "群组";
+"FAVORITES" = "最爱";
+"PROFILE" = "简介";
+"SETTINGS" = "设置，主题和麦克风";
+"EXTRAS" = "其他";
+"FAQS" = "常见问答";
+"ABOUT" = "关于";
+
+/* Welcom View */
+
+"WELCOME" = "欢迎来到Tongue Tango！";
+"WELCOME MESSAGE" = "我们认为生活应该简单化，高度社会化，同时应该完全由你掌控。";
+"NEW OR EXISTING" = "您想用哪种方式注册？";
+
+/* Registration View */
+
+"PICTURE QUESTION" = "您想如何设置您的头像？";
+"PICTURE ANSWER1" = "拍照";
+"PICTURE ANSWER2" = "选择头像";
+"TYPE NAME" = "输入您的姓名";
+"NO IMAGE TITLE" = "选择头像";
+"NO IMAGE MESSAGE" = "为了让您的朋友更容易找到您，请选择一张头像。";
+"NO NAME TITLE" = "输入一个名字";
+"NO NAME MESSAGE" = "以便让朋友找到您，请输入您的名字。";
+"OR" = "或";
+"CAMERA UNAVAILABLE" = "没有找到摄像头";
+"CAMERA NOT AVAILABLE" = "您的设备无法拍照。请选择另外一个选项。";
+
+/* Login View */
+
+"LOGIN ERROR" = "登录错误";
+"LOGIN ERROR MESSAGE" = "在您提交的内容中出现一或多个错误。请再次尝试。";
+"MISSING UN PW" = "请输入用户名和密码登录。";
+"CONFIRM NO MATCH" = "您输入的密码与确认密码不符。请再试一次。";
+
+/* Friends Landing View */
+
+"REGISTRATION COMPLETE" = "完成注册！";
+"THANK YOU FOR REGISTERING" = "感谢您注册Tongue Tango！要使用Tongue Tango，请先和您的朋友建立联系…";
+
+/* Add Friends View */
+
+"ADD FRIENDS" = "添加好友";
+"CONTACTS" = "联系人";
+"CONTACTS SUBTITLE" = "从您的联系人中寻找好友";
+"FACEBOOK" = "Facebook";
+"FB SUBTITLE" = "从Facebook中寻找好友";
+"INVITE SUBTITLE" = "邀请朋友加入Tongue Tango";
+"SUGGESTIONS" = "建议";
+"TOP RESULTS" = "\"%@\"的最相关结果";
+"AB ACCESS" = "访问地址簿";
+"AB ACCESS MESSAGE" = "Tongue Tango需要获得访问您的地址簿的许可方可为您提供添加好友的建议。";
+"CONTACTS PERMISSION" = "您的联系人";
+"CONTACTS PERMISSION MESSAGE" = "为了轻松与您的朋友和家人建立联系，Tongue Tango需要将您的联络人信息发送到我们的服务器。";
+
+/* Contact Details View */
+
+"ADD FRIEND" = "添加好友";
+"ADDED FRIEND" = "已添加为好友";
+"PROCESSING" = "处理中…";
+"INVITE FRIEND" = "邀请好友";
+
+/* Add From Contacts View */
+
+"TT CONTACTS" = "Tongue Tango上的联系人";
+"INVITE TO TT" = "邀请加入Tongue Tango";
+"AB ACTIVITY" = "从您的\n地址簿中检索好友。";
+"AB ERROR" = "Tongue Tango无法从您的地址簿中检索到好友。\n 请稍后再试。";
+"AB NO ENTRIES" = "您的\n地址簿中没有联系人。";
+
+/* Invite Form View */
+
+"INVITE FORM ERROR" = "邀请表出错";
+"PLEASE ENTER NAME" = "请先输入名字或姓氏。";
+"PLEASE ENTER EMAIL" = "请先输入电邮地址或电话号码。";
+"INVALID EMAIL" = "请输入有效的电邮地址。";
+"INVALID PHONE" = "请输入有效的电话号码。";
+"INVITE MESSAGE" = "邀请朋友使用Tongue Tango吧！只需填写下面的邀请表，然后点击‘下一步’。";
+
+/* Invite View */
+
+"INVITE TITLE" = "邀请 %@";
+"VIDEO DEMO" = "视频演示";
+"VIDEO SUBTITLE" = "发送Tt视频演示";
+"VOICE NOTE" = "声音提示";
+"VOICE SUBTITLE" = "发送Tt声音提示";
+"RECORD VOICE" = "录制声音提示";
+"RECORD SUBTITLE" = "发送您自己的声音提示";
+"TEXT" = "文本";
+"TEXT SUBTITLE" = "发送短信文本";
+"INVITE TEXT MESSAGE" = "嗨-这可能是您一天收到的最重要的消息。\n\n 您的朋友，%@ %@,已经在使用Tongue Tango了，您也来尝试下吧！让您了不起的智能手机物尽其用吧，用它来和您的朋友进行交谈;发短信已经是2011的事了！\n\n 通话、发帖、推特、定制、大吼、主题、大叫、尖叫或者正常说话，如果您真正喜欢它的话！\n\n 请访问TongueTango.com了解详情，在此：%@下载iPhone和Android应用";
+//"INVITE TEXT MESSAGE" = "您之所以收到这封邮件，是因为您没有使用Facebook，或者因为 %@ %@ 倾向于给您发送电子邮件。\n\n 让我们为你们两人同时带来方便吧，请下载Tongue Tango，抛弃繁琐的邮件。Email已经是过去式了！\n\n%@";
+"INVITE SMS MESSAGE" = "不需要动拇指，只需要动动舌头。 %@ 使用Tongue Tango交谈、发帖、发推特、尖叫和大叫，您也用Tongue吧 %@";
+"OPTION UNAVAILABLE" = "选项不可用";
+"SMS NOT AVAILABLE" = "您的设备无法发送短消息。请选择另外一个选项。";
+"EMAIL NOT AVAILABLE" = "您的设备无法发送电子邮件。请选择另外一个选项。";
+"INVITE SENT" = "您的邀请已发送！";
+
+/* Home View */
+
+"TYPE MESSAGE" = "空白消息";
+"TYPE MESSAGE MESSAGE" = "您必须输入一些内容或者按‘取消’。";
+"FB VIDEO POST TITLE" = "按这里听我的留言！";
+"FB VIDEO POST DESC" = "您有一个Tongue Tango %@ 朋友有话要跟您说。如果您没有用过Facebook，请点击‘播放’按钮，等着精彩的体验吧！";
+"TW AUDIO POST DESC" = "点击链接听听我通过Tongue Tango发布的推特：";
+"NEW MESSAGE" = "有新留言";
+"PRESS & HOLD TO RECORD" = "按住此键录音";
+
+/* Messages View */
+
+"SELECT CONTACT" = "选择联系人";
+
+/* Friends List View */
+
+"MY FRIENDS" = "好友";
+"PENDING FRIENDS" = "待确认";
+"ACTIVE FRIENDS" = "好友";
+"BLOCKED FRIENDS" = "被阻止";
+"NOT GROUP OWNER" = "您不是群主";
+"CONTACT GROUP OWNER" = "请联系群主，让其把您移出群组。";
+"GROUP OWNER" = "（群主）";
+"GROUP NAME TITLE" = "为您的组织取一个名字";
+"GROUP NAME DESC" = "请输入组织名称, 这样你的朋友就可以找得到您。";
+"GROUP PICTURE" = "您希望如何设置您的组织照片？";
+
+/* Profile */
+
+"PERSONAL INFO" = "个人信息";
+"CHANGE PASSWORD" = "修改密码";
+"SOCIAL NETWORKING" = "社交网络构建";
+
+/* Settings */
+
+"REVIEW" = "发送前请复核";
+"SKINS" = "主题";
+"REVIEW AUDIO" = "回顾声频";
+"DEFAULT TO SPEAKER" = "默认道扬声器";
+"MICROPHONES" = "麦克风";
+"GET MORE THEMES" = "索取更多主题";
+"GET MORE MICROPHONES" = "索取更多麦克风";
+"DEFAULT" = "默认";
+
+/* Extras */
+
+"SKIN MY APP" = "设置应用程序主题";
+"SKIN DESCRIPTION" = "个性化您的Tongue Tango应用程序。从以下主题中选择：军事、沙漠、粉色猎豹等等。";
+"MICROPHONE PACK" = "麦克风充电器 :5组装";
+"MICROPHONE DESCRIPTION" = "在5个不同的设计里选取一个最合您心意的一个。  按Tab键来预览您的麦克风.";
+
+/* About View */
+
+"WEBSITE" = "TongueTango.com";
+"LINKEDIN" = "LinkedIn";
+"TWITTER" = "Twitter";
+"YOUTUBE" = "YouTube";
+"EMAIL UNAVAILABLE" = "电子邮件不可用";
+"EMAIL NOT SETUP" = "您的设备目前没有为发送电子邮件做好设置。";
+"TERMS OF USE" = "使用条款";
+"RATE US 5 STARS" = "给我们5颗星的评价吧";
+"EMAIL FEEDBACK" = "电邮反馈";
+
+/* Loading */
+
+"APPLYING THEME" = "主题应用中...";
+"CHECKING PURCHASES" = "检查购货中...";
+"CREATING ACCOUNT" = "创建账户中...";
+"LOADING THEMES" = "主题加载中...";
+"LOGGING IN" = "正在登录...";
+"SYNCING" = "Syncing";
+"SAVING GROUP" = "组织保存中...";
+
+/* Other */
+
+"TONGUE-TASTIC!" = "极其出舌!";
+"WAITING FOR FRIEND TO ACCEPT" = "现在我们就等您的朋友接受您的邀请...";
+
+"LOADING" = "加载中...";
+"NO RESULTS" = "没有结果";
+
+"DONT TELL ME AGAIN" = "不要在告诉我"; 
+
+"MY WALL" = "脸书 (我的涂鸦墙)";
+"MY FEED" = "推特 (我的公告)" ;
+
+"UNABLE TO CONNECT" = "Tongue Tango 无法连接至服务器。请确认您已经连网。";
+
+"ADDED TO A GROUP" = "您被加到一个组织里了!";
+"HAVE A NEW MESSAGE" = "您有一条新的信息!";
+
+"PREPARING TO DOWNLOAD" = "下载准备中...";
+"MESSAGE IS UNAVAILABLE" = "信息不存在.";
+"MESSAGE DOWNLOAD FAILED" = "下载信息失败.";
+"UNKNOWN USER" = "匿名用户";
+
+"TAP TO PREVIEW" = "(按Tab来预览)";
+"THEME PURCHASED" = "主题成功购买";
+"SET YOUR THEME IN SETTINGS" = "您可以在您的设定里面设定主题";
+"UNABLE TO PURCHASE" = "对不起,我们无法完成主题购买. 请按购买键重试。";
+"UNABLE TO VERIFY HISTORY" = "对不起,我们没有办法核实您的购买历史记录.";
+
+"LOGOUT QUESTION" = "请问您确定要登出 Tongue Tango吗?";
+
+"PLEASE CREATE USERNAME" = "请为您的Tongue Tango 户口设定一个用户名与密码.";
+"OPTIONAL" = "任选";
+
+"PROFILE UPDATED" = "您的资料已更新.";
+
+"SAVE GROUP TITLE" = "请问您要保存您作的改变吗?";
+"SAVE GROUP MESSAGE" = "如果您不保存,您作的改变将会被丢弃.";
+
+"FROM MY CONTACT LIST" = "From My Contact List";
+"ADDRESS BOOK" = "Address Book";
+"FACEBOOK FRIENDS" = "Facebook Friends";
+"SYNC ALERT" = "In order to find yours friends we need to send address book information to Tongue Tango's servers using a secure connection";
+"DOWNLOAD AGAIN" = "Download again.";
+"SORRY" = "Sorry";
+"TWITTER_ALERT" = "You can't send a tweet right now, make sure your device has an internet connection and you have at least one Twitter account. Go to Settings > Twitter on your iOS device";
+"UPLOADING" = "Uploading...";

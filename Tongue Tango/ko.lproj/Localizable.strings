@@ -1,0 +1,303 @@
+/* 
+  Localizable.strings
+  Tongue Tango
+
+  Created by Chris Serra on 2/14/12.
+  Copyright (c) 2012 Tongue Tango. All rights reserved.
+*/
+
+/* Buttons */
+
+"ADD" = "추가";
+"ACCEPT" = "승인";
+"BACK" = "뒤로";
+"BLOCK" = "차단";
+"CANCEL" = "취소";
+"CONNECT" = "연결";
+"CONNECT FB" = "Facebook으로 로그인";
+"CONNECT TW" = " Twitter로 로그인";
+"CONTINUE" = "계속";
+"DELETE" = "삭제";
+"DENY" = "거절";
+"DONE" = "완료";
+"DONT ALLOW" = "비허용";
+"EXISTING ACCOUNT" = "기존 계정";
+"FREE" = "무료";
+"GET STARTED" = "시작하기";
+"INVITE" = "초대";
+"LOGOUT" = "로그아웃";
+"LOGOUT OF TT" = "Tongue Tango 로그 아웃";
+"LOGIN" = "로그인";
+"NEW" = "새";
+"NEW ACCOUNT" = "새 계정";
+"NEXT" = "다음";
+"NO THANKS" = "아니오";
+"NOT NOW" = "다음에";
+"RECORD REPLY" = "레코드 리플레이";
+"REMOVE" = "삭제";
+"SAVE" = "저장";
+"SEND" = "전송";
+"SET PICTURE" = "사진 설정";
+"SETTINGS BTTN" = "설정";
+"SIGN IN" = "가입하기";
+"SIGN UP" = "Tongue Tango 가입하기";
+"TEXT REPLY" = "문자 답장";
+"UNBLOCK" = "차단 해제";
+"YES" = "네";
+
+/* Form Fields */
+
+"FIRST NAME" = "이름";
+"LAST NAME" = "성";
+"USERNAME" = "사용자이름";
+"PASSWORD" = "비밀번호";
+"EMAIL" = "이메일";
+"PHONE" = "전화";
+"PHONE NUMBER" = "전화 번호";
+"CONFIRM" = "확인";
+"FORGOT" = "잊었다고?";
+"CONFIRM PASSWORD" = "비밀번호 확인";
+"GROUP NAME" = "그룹 이름";
+
+/* API Connections */
+
+"CONNECT ERROR" = "연결 오류";
+"REQUEST ERROR" = "요청 오류";
+"REQUEST ERROR MESSAGE" = "서버로 요청을 방해하는 오류가 발생하였습니다. 다시 시도하십시오.";
+"UPLOAD ERROR" = "업로드 오류";
+"UPLOAD ERROR MESSAGE" = "전송하시려는 메세지가 비어있습니다. 다시 시도하십시오.";
+
+/* Facebook */
+
+"FB ACTIVITY" = "Facebook에서 친구 불러오기.";
+"FB CONNECT" = " \n Tongue Tango를 사용중인 친구를 찾기위해 Facebook에 연결하기.";
+"FB ERROR" = "Tongue Tango가 Facebook 계정 연결에 실패하였습니다. 다시 시도하십시오.";
+
+/* Twitter */
+
+"TW ERROR" = "Tongue Tango 가 Twitter 계정 연결에 실패했습니다. 다시 시도하십시오.";
+
+/* Menu */
+
+"HOME" = "홈";
+"MESSAGES" = "메세지";
+"FRIENDS" = "친구";
+"GROUPS" = "그룹";
+"FAVORITES" = "즐겨찾기";
+"PROFILE" = "프로필";
+"SETTINGS" = "설정, 테마 & 마이크";
+"EXTRAS" = "기타";
+"FAQS" = "FAQ";
+"ABOUT" = "소개";
+
+/* Welcom View */
+
+"WELCOME" = " Tongue Tango에 오신 것을 환영합니다!";
+"WELCOME MESSAGE" = "삶을 간단하고 보다 친근하게 그리고 동시에 완벽한 사용자 지정 구성이 가능합니다.";
+"NEW OR EXISTING" = "가입하시겠습니까?";
+
+/* Registration View */
+
+"PICTURE QUESTION" = "어떻게 사진을 설정하시겠습니까?";
+"PICTURE ANSWER1" = "사진 촬영";
+"PICTURE ANSWER2" = "사진 선택";
+"TYPE NAME" = "이름 입력";
+"NO IMAGE TITLE" = "사진 선택";
+"NO IMAGE MESSAGE" = "친구들이 보다 쉽게 당신을 찾을 수 있도록, 사진을 선택하십시오.";
+"NO NAME TITLE" = "이름을 입력하십시오";
+"NO NAME MESSAGE" = "친구들이 찾을 수 있도록, 이름을 입력하십시오.";
+"OR" = "또는";
+"CAMERA UNAVAILABLE" = "카메라 이용불가능";
+"CAMERA NOT AVAILABLE" = "장치가 사진 촬영을 할 수 없습니다. 다른 옵션을 선택하세요.";
+
+/* Login View */
+
+"LOGIN ERROR" = "로그인 오류";
+"LOGIN ERROR MESSAGE" = "제출에 하나 이상의 오류가 발생하였습니다. 다시 시도하십시오.";
+"MISSING UN PW" = "로그인하시려면 사용자 이름 및 비밀번호를 입력하십시오.";
+"CONFIRM NO MATCH" = "비밀번호와 비밀번호 확인이 일치하지 않습니다. 다시 시도하십시오.";
+
+/* Friends Landing View */
+
+"REGISTRATION COMPLETE" = "가입이 완료되었습니다!";
+"THANK YOU FOR REGISTERING" = "Tongue Tango에 가입해주셔서 감사합니다! Tongue Tango를 사용하시려면 친구들과 연결하셔야 합니다…";
+
+/* Add Friends View */
+
+"ADD FRIENDS" = "친구 추가";
+"CONTACTS" = "연결";
+"CONTACTS SUBTITLE" = "연락처에서 친구 찾기";
+"FACEBOOK" = "Facebook";
+"FB SUBTITLE" = " Facebook에서 친구찾기";
+"INVITE SUBTITLE" = "Tongue Tango로 친구 초대하기";
+"SUGGESTIONS" = "제안";
+"TOP RESULTS" = "\"%@\"의 최상 결과";
+"AB ACCESS" = "주소록 엑세스";
+"AB ACCESS MESSAGE" = "친구 추천을 위하여 Tongue Tango의 주소록 엑세스 허가를 요청합니다.";
+"CONTACTS PERMISSION" = "연락처";
+"CONTACTS PERMISSION MESSAGE" = "친구들 및 가족과 쉽게 연락하려면, Tongue Tango는 귀하의 연락처를 서버로 전송하여야 합니다.";
+
+/* Contact Details View */
+
+"ADD FRIEND" = "친구 추가";
+"ADDED FRIEND" = "친구로 추가됨";
+"INVITE SENT" = "초대 전송";
+"PROCESSING" = "처리 중...";
+"INVITE FRIEND" = "친구 초대";
+
+/* Add From Contacts View */
+
+"TT CONTACTS" = "Tongue Tango 연락";
+"INVITE TO TT" = "Tongue Tango로 초대";
+"AB ACTIVITY" = "\n 주소록에서 친구 불러오기.";
+"AB ERROR" = "Tongue Tango가 주소록에서 친구 불러오기에 실패하였습니다.\n 다시 시도하십시오.";
+"AB NO ENTRIES" = "\n 주소록에 연락처가 없습니다.";
+
+/* Invite Form View */
+
+"INVITE FORM ERROR" = "초대 양식 오류";
+"PLEASE ENTER NAME" = "계속하시려면 이름 또는 성을 입력하십시오.";
+"PLEASE ENTER EMAIL" = "계속하시려면 이메일 주소 또는 전화 번호를 입력하십시오.";
+"INVALID EMAIL" = "유효한 이메일 주소를 입력하십시오.";
+"INVALID PHONE" = "유효한 전화 번호를 입력하십시오.";
+"INVITE MESSAGE" = "Tongue Tango로 친구들을 초대하십시오! 초대 양식을 작성하신 후 다음을 누르십시오.";
+
+/* Invite View */
+
+"INVITE TITLE" = "초대 %@";
+"VIDEO DEMO" = "비디오 데모";
+"VIDEO SUBTITLE" = "Tt 에게 비디오 데모 전송";
+"VOICE NOTE" = "음성 노트";
+"VOICE SUBTITLE" = " Tt 음성 노트 보내기";
+"RECORD VOICE" = "음성 노트 녹음";
+"RECORD SUBTITLE" = "나만의 음성 노트 보내기";
+"TEXT" = "문자";
+"TEXT SUBTITLE" = "SMS 문자 보내기";
+"INVITE TEXT MESSAGE" = "안녕, 안녕 안녕! - 오늘 받은 문자 중 가장 중요한 메세지 일지도 모릅니다.\n\n 친구, %@ %@,가 이미 Tongue Tango를 사용하고 있으니 가입하세요!  똑똑한 스마트 폰을 통해서 친구들과 소통하세요;  2011년에 문자메세지!\n\n 대화, 포스트, 트위터, 사용자지정, 소리치기, 테마,비명, 또는 일상적인 대화가 가능합니다!\n\n  TongueTango.com 온라인에서 확인하세요. iPhone 그리고 Android에서 어플을 다운로드 하십시오: %@";
+//"INVITE TEXT MESSAGE" = "해당 이메일은 귀하가 페이스북을 사용하지 않으시거나 또는 %@ %@ 이메일 수신을 원하셨기 때문입니다.\n\n 보다 쉬운 처리를 위하여, Tongue Tango를 다운로드 하시면 이메일 시스템에서 제외됩니다.  2011년에 이메일!\n\n%@";
+"INVITE SMS MESSAGE" = "손가락이 아닌 혀를 사용하세요. %@ Tongue Tango를 통하여 대화, 포스트, 트윗, 소리치기 등이 가능합니다, 혀를 사용하세요! %@";
+"OPTION UNAVAILABLE" = "이용 가능한 옵션";
+"SMS NOT AVAILABLE" = "장치에서 SMS 메세지를 전송하실 수 없습니다. 다른 옵션을 선택하십시오.";
+"EMAIL NOT AVAILABLE" = "장치에서 이메일 전송이 불가능합니다. 다른 옵션을 선택하십시오.";
+"INVITE SENT" = "초대가 전송되었습니다!";
+
+/* Home View */
+
+"TYPE MESSAGE" = "메세지 없음";
+"TYPE MESSAGE MESSAGE" = "문자를 입력하시거나 또는 취소하십시오.";
+"FB VIDEO POST TITLE" = "메세지를 들으시려면 클릭하십시오!";
+"FB VIDEO POST DESC" = " Tongue Tango %@ 의 친구로부터 메세지가 있습니다.  Facebook을 처음 사용하실 경우, 재생 버튼을 클릭하신 후 놀랄 준비를 하십시오!";
+"TW AUDIO POST DESC" = " Tongue Tango에서 트윗을 들으시려면 클릭하십시오:";
+"NEW MESSAGE" = "새 메세지";
+"PRESS & HOLD TO RECORD" = "녹음 하시려면 길게 누르세요";
+
+/* Messages View */
+
+"SELECT CONTACT" = "연락처 선택";
+
+/* Friends List View */
+
+"MY FRIENDS" = "친구";
+"PENDING FRIENDS" = "대기";
+"ACTIVE FRIENDS" = "친구";
+"BLOCKED FRIENDS" = "차단됨";
+"NOT GROUP OWNER" = "당신은 그룹의 주인이 아닙니다";
+"CONTACT GROUP OWNER" = "그룹에서 탈퇴하려면 주인에게 요청하십시오.";
+"GROUP OWNER" = "(그룹 주인)";
+"GROUP NAME TITLE" = "그룹 이름을 생성하십시오";
+"GROUP NAME DESC" = "친구들이 찾을 수 있도록, 그룹 이름을 입력하십시오.";
+"GROUP PICTURE" = "그룹 사진 설정을 어떻게 하시겠습니까?";
+
+/* Profile */
+
+"PERSONAL INFO" = "개인 정보";
+"CHANGE PASSWORD" = "비밀번호 변경";
+"SOCIAL NETWORKING" = "소셜 네트워킹";
+
+/* Settings */
+
+"REVIEW" = "전송 전 리뷰";
+"SKINS" = "테마";
+"REVIEW AUDIO" = "오디오 리뷰";
+"DEFAULT TO SPEAKER" = "스피커 기본 설정";
+"MICROPHONES" = "마이크로폰";
+"GET MORE THEMES" = "더 많은 테마";
+"GET MORE MICROPHONES" = "더 많은 마이크로폰";
+"DEFAULT" = "기본";
+
+/* Extras */
+
+"SKIN MY APP" = "마이 어플 테마";
+"SKIN DESCRIPTION" = "Tongue Tango 어플을 꾸미세요. 군인, 사막, 핑크 치타와 같은 테마들을 선택하십시오.";
+"MICROPHONE PACK" = "마이크로폰 충전기: 5 팩";
+"MICROPHONE DESCRIPTION" = "기분에 어울리는 5가지 디자인의 마이크로폰을 선택하십시오. 마이크로폰을 누르시면 미리보기가 가능합니다.";
+
+/* About View */
+
+"WEBSITE" = "TongueTango.com";
+"LINKEDIN" = "LinkedIn";
+"TWITTER" = "Twitter";
+"YOUTUBE" = "YouTube";
+"EMAIL UNAVAILABLE" = "이메일 이용 불가능";
+"EMAIL NOT SETUP" = "현재 귀하의 장치는 이메일 전송 설정이 되어있지 않습니다.";
+"TERMS OF USE" = "이용약관";
+"RATE US 5 STARS" = "별 5개 평가";
+"EMAIL FEEDBACK" = "이메일 피드백";
+
+/* Loading */
+
+"APPLYING THEME" = "테마 적용...";
+"CHECKING PURCHASES" = "구매 확인...";
+"CREATING ACCOUNT" = "계정 생성...";
+"LOADING THEMES" = "테마 로딩...";
+"LOGGING IN" = "로깅 인...";
+"SYNCING" = "Syncing";
+"SAVING GROUP" = "그룹 저장...";
+
+/* Other */
+
+"TONGUE-TASTIC!" = "텅-타스틱!";
+"WAITING FOR FRIEND TO ACCEPT" = "친구의 승인을 기다리고 있습니다...";
+
+"LOADING" = "로딩...";
+"NO RESULTS" = "결과 없음";
+
+"DONT TELL ME AGAIN" = "다시 묻지 않기"; 
+
+"MY WALL" = "페이스북 (내 담벼락)";
+"MY FEED" = "트위터 (내 피드)" ;
+
+"UNABLE TO CONNECT" = "Tongue Tango가 서버 접속에 실패하였습니다. 인터넷 엑세스를 확인하십시오.";
+
+"ADDED TO A GROUP" = "그룹에 추가되었습니다!";
+"HAVE A NEW MESSAGE" = "새 메세지가 있습니다!";
+
+"PREPARING TO DOWNLOAD" = "다운로드 준비 중...";
+"MESSAGE IS UNAVAILABLE" = "메세지 이용이 불가능합니다.";
+"MESSAGE DOWNLOAD FAILED" = "메세지 다운로드 실패.";
+"UNKNOWN USER" = "알 수 없는 사용자";
+
+"TAP TO PREVIEW" = "(미리보기 탭)";
+"THEME PURCHASED" = "구매한 테마";
+"SET YOUR THEME IN SETTINGS" = "설정에서 테마를 설정할 수 있습니다";
+"UNABLE TO PURCHASE" = "죄송합니다. 해당 테마를 구매할 수 없습니다. 구매 버튼을 탭하신 후 다시 시도 하십시오.";
+"UNABLE TO VERIFY HISTORY" = "죄송합니다, 구매 이력을 확인할 수 없습니다.";
+
+"LOGOUT QUESTION" = " Tongue Tango에서 로그아웃 하시겠습니까?";
+
+"PLEASE CREATE USERNAME" = "Tongue Tango 계정의 사용자 이름 및 비밀번호를 생성하십시오.";
+"OPTIONAL" = "선택 사항";
+
+"PROFILE UPDATED" = "프로필이 업데이트 되었습니다.";
+
+"SAVE GROUP TITLE" = "변경 사항을 저장하시겠습니까?";
+"SAVE GROUP MESSAGE" = "저장하지 않으실 경우, 변경 사항은 삭제됩니다.";
+
+"FROM MY CONTACT LIST" = "From My Contact List";
+"ADDRESS BOOK" = "Address Book";
+"FACEBOOK FRIENDS" = "Facebook Friends";
+"SYNC ALERT" = "In order to find yours friends we need to send address book information to Tongue Tango's servers using a secure connection";
+"DOWNLOAD AGAIN" = "Download again.";
+"SORRY" = "Sorry";
+"TWITTER_ALERT" = "You can't send a tweet right now, make sure your device has an internet connection and you have at least one Twitter account. Go to Settings > Twitter on your iOS device";
+"UPLOADING" = "Uploading...";
